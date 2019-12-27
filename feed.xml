@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-27T18:37:23-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plain Questions</title><subtitle>Simpol Theme is a clean, minimal website theme all about the writing, the content. Currently available for Jekyll. Perfect for blogging.</subtitle><author><name>Simpol Theme</name><email>simpol@scottmathson.com</email></author><entry><title type="html">Simpol Blogging, Adding New Posts</title><link href="http://localhost:4000/tips/tricks/2017/04/16/writing-new-post/" rel="alternate" type="text/html" title="Simpol Blogging, Adding New Posts" /><published>2017-04-16T13:00:00-04:00</published><updated>2017-04-16T13:00:00-04:00</updated><id>http://localhost:4000/tips/tricks/2017/04/16/writing-new-post</id><content type="html" xml:base="http://localhost:4000/tips/tricks/2017/04/16/writing-new-post/">&lt;h1 id=&quot;simpol-blogging-creating-your-post&quot;&gt;Simpol Blogging: Creating Your Post&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-27T18:55:32-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plain Questions</title><subtitle>Simpol Theme is a clean, minimal website theme all about the writing, the content. Currently available for Jekyll. Perfect for blogging.</subtitle><author><name>Simpol Theme</name><email>simpol@scottmathson.com</email></author><entry><title type="html">How do we build safe AI for the future?</title><link href="http://localhost:4000/on-going/2019/12/27/ai-safety/" rel="alternate" type="text/html" title="How do we build safe AI for the future?" /><published>2019-12-27T12:00:00-05:00</published><updated>2019-12-27T12:00:00-05:00</updated><id>http://localhost:4000/on-going/2019/12/27/ai-safety</id><content type="html" xml:base="http://localhost:4000/on-going/2019/12/27/ai-safety/">&lt;h1 id=&quot;simpol-blogging-creating-your-post&quot;&gt;Simpol Blogging: Creating Your Post&lt;/h1&gt;
 
 &lt;p&gt;All of the blog posts that syndicate into the homepage (index.html) feed and Sitemap are located within the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
 
@@ -24,30 +24,4 @@
 	author:     &quot;Scott Mathson&quot;
 	header-img: img/posts/header-img/woman-typing-macbook.jpg
 	---
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Simpol Theme</name></author><summary type="html">Simpol Blogging: Creating Your Post</summary></entry><entry><title type="html">new</title><link href="http://localhost:4000/new%20cat/2017/04/16/a/" rel="alternate" type="text/html" title="new" /><published>2017-04-16T13:00:00-04:00</published><updated>2017-04-16T13:00:00-04:00</updated><id>http://localhost:4000/new%20cat/2017/04/16/a</id><content type="html" xml:base="http://localhost:4000/new%20cat/2017/04/16/a/">&lt;h1 id=&quot;simpol-blogging-creating-your-post&quot;&gt;Simpol Blogging: Creating Your Post&lt;/h1&gt;
-
-&lt;p&gt;All of the blog posts that syndicate into the homepage (index.html) feed and Sitemap are located within the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;It’s easy to add new posts&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Create a new file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder&lt;/li&gt;
-  &lt;li&gt;Name the file, using this naming convention: &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-post-name.markdown&lt;/code&gt; (&lt;em&gt;or .md&lt;/em&gt;)&lt;/li&gt;
-  &lt;li&gt;Write out the Front Matter (see below)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As for the Front Matter, Simpol Theme incorporates and includes a few options. &lt;em&gt;Always ensure that your file’s date and front matter date match up&lt;/em&gt;. &lt;strong&gt;Although highly recommended&lt;/strong&gt;, things like the &lt;code class=&quot;highlighter-rouge&quot;&gt;description&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;author&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;header-img&lt;/code&gt; are completely optional.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;date&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; should not be considered optional&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;example-this-posts-front-matter&quot;&gt;Example: This Post’s Front Matter:&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	---
-	layout:     post
-	title:      &quot;Simpol Blogging, Adding New Posts&quot;
-	description: &quot;How to add your first post. Simpol Theme blogging overview.&quot;
-	date:       2017-04-16 17:00:00
-	author:     &quot;Scott Mathson&quot;
-	header-img: img/posts/header-img/woman-typing-macbook.jpg
-	---
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Simpol Theme</name></author><summary type="html">Simpol Blogging: Creating Your Post</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>admin</name></author><summary type="html">Simpol Blogging: Creating Your Post</summary></entry></feed>
